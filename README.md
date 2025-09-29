@@ -1,3 +1,3 @@
 # Roblox-Countdown
 
-This is only used for find the toys countdowns in roblox.
+This is only used for find the toys update countdowns in roblox.
